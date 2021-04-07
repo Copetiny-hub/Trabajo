@@ -1,0 +1,63 @@
+form{
+  margin: 0 auto ;
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+  color:white; 
+}
+
+fieldset{
+  width: 50%;
+  position: relative;
+  left:25%;
+  background-color:#5F2E4A;
+  box-shadow: 10px 10px 25px 20px black;
+  font-family:monospace;
+  font-size: 15px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+ 
+}
+
+span{
+  display: inline-block;
+  width: -20px;
+  text-align: right;  
+}
+
+
+span input{
+  background-color:#EDBB99;
+}
+
+ textarea{
+  width: 60%;
+  height: 6em;
+  
+}
+button{
+  position: relative;
+  right: 62px;
+  
+}
+p button{
+  position: relative;
+  left: 68px;
+  bottom: 37px;
+ 
+}
+
+
+.comentario{
+  position: relative;
+  top:2px;
+}
+.m{
+  position: relative;
+  top:4px;
+}
+
